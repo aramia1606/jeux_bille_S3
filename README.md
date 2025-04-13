@@ -46,7 +46,7 @@ This project is a digital implementation of the classic board game **Mancala**, 
 ---
 
 ## 📦 File Structure
-.
-├── main.cpp
+.<br>
+├── main.cpp <br>
 └── mbed.bld
 
