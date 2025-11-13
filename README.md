@@ -45,7 +45,10 @@ This project is a digital implementation of the classic board game **Mancala**, 
 
 ---
 ## Result 
-lv_0_20251103183046_1.mp4
+
+https://github.com/user-attachments/assets/dbc9cbcd-7f26-4454-b194-7b9116cca366
+
+
 ---
 ## 📦 File Structure
 .<br>
