@@ -44,7 +44,9 @@ This project is a digital implementation of the classic board game **Mancala**, 
 - 🕹️ **Real-time game loop**
 
 ---
-
+## Result 
+lv_0_20251103183046_1.mp4
+---
 ## 📦 File Structure
 .<br>
 ├── main.cpp <br>
